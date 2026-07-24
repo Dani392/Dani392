@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Daniel! 👋 
 
-<!--
-**Dani392/Dani392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Málaga, Spain, specializing in cross-platform mobile app development and efficient data management systems. I am passionate about turning complex ideas into clean code, polished interfaces, and functional solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* **Mobile & Apps:** Flutter, Dart, AppSheet.
+* **Languages & Core:** C, Python, SQL (MySQL).
+* **Environment & Tools:** Git, GitHub, VS Code, GitHub Copilot (AI Pair Programming).
+* **Data & BI:** Power BI, Data Modeling, Google Sheets / Advanced Excel.
+
+---
+
+### 📌 Featured Projects
+
+* **[Look Clock ⌚🏔️](https://github.com/Dani392/mirar-reloj-vivo-papel-pintado):** An advanced Live Wallpaper creator for Android built with Flutter, featuring on-device image processing and depth effects (Z-Index).
+* **[Smart Expense Tracker 📊](https://github.com/Dani392/rastreador-inteligente-gasto):** A feature-rich financial tracking application built with Flutter, complete with analytics and responsive state management.
+* **[BI & Data Dashboards 📈](https://github.com/Dani392/BI_Grocery_Cost_Dashboard):** Interactive dashboards designed for recurring cost control and data analysis.
+
+---
+
+💡 *Currently exploring new opportunities to build custom mobile solutions and optimize data workflows.*
