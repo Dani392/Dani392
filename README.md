@@ -18,7 +18,7 @@ Software developer based in Málaga, Spain, specializing in cross-platform mobil
 * **[Look Clock ⌚🏔️](https://github.com/Dani392/mirar-reloj-vivo-papel-pintado):** An advanced Live Wallpaper creator for Android built with Flutter, featuring on-device image processing and depth effects (Z-Index).
 * **[Smart Expense Tracker 📊](https://github.com/Dani392/rastreador-inteligente-gasto):** A feature-rich financial tracking application built with Flutter, complete with analytics and responsive state management.
 * **[BI & Data Dashboards 📈](https://github.com/Dani392/BI_Grocery_Cost_Dashboard):** Interactive dashboards designed for recurring cost control and data analysis.
-* AppSheet Personal Finance Tracker 📊📱: A data-driven, no-code financial management application featuring filtered views, cloud synchronization, and interactive analytical dashboards.
+* **[AppSheet Personal Finance Tracker 📊📱](https://github.com/Dani392/appsheet-expense-tracker):** A data-driven, no-code financial management application featuring filtered views, cloud synchronization, and interactive analytical dashboards.
 
 ---
 
