@@ -15,7 +15,7 @@ Software developer based in Málaga, Spain, specializing in cross-platform mobil
 
 ### 📌 Featured Projects
 
-* **[Workspace ERP System ⚙️🏢](https://github.com/Dani392/Workspace-ERP-System):** A decentralized Enterprise Resource Planning tool built on Google Workspace, featuring automated PDF invoicing via Apps Script, relational data emulation, and custom business intelligence algorithms.
+* **[Workspace ERP ⚙️🏢](https://github.com/Dani392/Workspace-ERP-System):** A decentralized management system built on Google Workspace. Features automated PDF billing, custom Business Intelligence algorithms, relational database emulation, and dynamic employee onboarding powered by Apps Script.
 * **[Look Clock ⌚🏔️](https://github.com/Dani392/Look-clock-live-wallpaper):** An advanced Live Wallpaper creator for Android built with Flutter, featuring on-device image processing and depth effects (Z-Index).
 * **[Smart Expense Tracker 📊](https://github.com/Dani392/Smart-Expense-Tracker):** A feature-rich financial tracking application built with Flutter, complete with analytics and responsive state management.
 * **[BI & Data Dashboards 📈](https://github.com/Dani392/BI_Grocery_Cost_Dashboard):** Interactive dashboards designed for recurring cost control and data analysis.
