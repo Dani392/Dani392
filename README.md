@@ -4,12 +4,13 @@ Software developer based in Málaga, Spain, specializing in cross-platform mobil
 
 ---
 
-### 🛠️ Tech Stack
+🛠 **Tech Stack & Skills**
 
-* **Mobile & Apps:** Flutter, Dart, AppSheet.
-* **Languages & Core:** C, Python, SQL (MySQL).
-* **Environment & Tools:** Git, GitHub, VS Code, GitHub Copilot (AI Pair Programming).
-* **Data & BI:** Power BI, Looker Studio, Data Modeling, Google Sheets / Advanced Excel.
+* **Mobile & Frontend:** Flutter, Dart.
+* **Languages & Core:** JavaScript (Google Apps Script), Python, C, SQL (MySQL).
+* **Business Automation:** Google Workspace Ecosystem, AppSheet, REST APIs.
+* **Data & BI:** Data Modeling, Power BI, Looker Studio.
+* **Tools:** Git, GitHub, VS Code.
 
 ---
 
